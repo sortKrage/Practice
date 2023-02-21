@@ -1,0 +1,18 @@
+eclipse.preferences.version=1
+org.eclipse.jdt.core.builder.resourceCopyExclusionFilter=
+org.eclipse.jdt.core.classpathVariable.JRE_LIB=C\:/Program Files/Java/jdk-18.0.2/lib/jrt-fs.jar
+org.eclipse.jdt.core.classpathVariable.JRE_SRC=C\:/Program Files/Java/jdk-18.0.2/lib/src.zip
+org.eclipse.jdt.core.classpathVariable.JRE_SRCROOT=
+org.eclipse.jdt.core.classpathVariable.JUNIT_HOME=C\:/Users/byget/.p2/pool/plugins/org.junit_4.13.2.v20211018-1956.jar
+org.eclipse.jdt.core.classpathVariable.M2_REPO=C\:/Users/byget/.m2/repository
+org.eclipse.jdt.core.codeComplete.visibilityCheck=enabled
+org.eclipse.jdt.core.compiler.codegen.inlineJsrBytecode=enabled
+org.eclipse.jdt.core.compiler.codegen.targetPlatform=18
+org.eclipse.jdt.core.compiler.compliance=18
+org.eclipse.jdt.core.compiler.problem.assertIdentifier=error
+org.eclipse.jdt.core.compiler.problem.enablePreviewFeatures=disabled
+org.eclipse.jdt.core.compiler.problem.enumIdentifier=error
+org.eclipse.jdt.core.compiler.problem.reportPreviewFeatures=warning
+org.eclipse.jdt.core.compiler.release=disabled
+org.eclipse.jdt.core.compiler.source=18
+org.eclipse.jdt.core.userLibrary.apache-common-cli=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<userlibrary systemlibrary\="true" version\="2">\r\n\t<archive path\="C\:/Users/byget/Downloads/commons-cli-1.5.0-bin/commons-cli-1.5.0/commons-cli-1.5.0.jar"/>\r\n\t<archive path\="C\:/Users/byget/Downloads/commons-cli-1.5.0-bin/commons-cli-1.5.0/commons-cli-1.5.0-javadoc.jar"/>\r\n\t<archive path\="C\:/Users/byget/Downloads/commons-cli-1.5.0-bin/commons-cli-1.5.0/commons-cli-1.5.0-sources.jar"/>\r\n\t<archive path\="C\:/Users/byget/Downloads/commons-cli-1.5.0-bin/commons-cli-1.5.0/commons-cli-1.5.0-tests.jar"/>\r\n\t<archive path\="C\:/Users/byget/Downloads/commons-cli-1.5.0-bin/commons-cli-1.5.0/commons-cli-1.5.0-test-sources.jar"/>\r\n</userlibrary>\r\n

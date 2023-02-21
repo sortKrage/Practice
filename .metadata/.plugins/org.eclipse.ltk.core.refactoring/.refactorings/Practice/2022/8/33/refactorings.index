@@ -1,0 +1,32 @@
+1660756130779	Rename package 'techTest'
+1660756317125	Copy package
+1660756386750	Delete element
+1660756391662	Delete element
+1660756404708	Move package
+1660756467971	Move package
+1660756481284	Delete element
+1660756499007	Move file
+1660756704386	Copy package
+1660756727302	Delete element
+1660756754084	Rename package 'java'
+1660756800428	Rename package 'resources'
+1660757793993	Move file
+1660758864402	Move file
+1660848769265	Rename method 'tfIdf'
+1660891013686	Rename type 'Values'
+1660893205840	Rename type 'Documents'
+1660893259701	Rename field 'directory'
+1660909882507	Move compilation unit
+1660909906694	Move compilation unit
+1660909948148	Move compilation units
+1660933858039	Rename package 'main.test.exerciseone'
+1660933917725	Rename package 'main.java.ExerciseOne'
+1660933931429	Rename package 'main.java.ExerciseThree'
+1660933950630	Rename package 'main.java.ExerciseTwo'
+1660934000528	Move file
+1660934010455	Delete element
+1660934020791	Move compilation unit
+1660934031342	Move file
+1660934623117	Rename type 'CheckFile'
+1660934656710	Rename local variable 'checkFile'
+1660934691265	Rename type 'ExerciseThreeTest'
